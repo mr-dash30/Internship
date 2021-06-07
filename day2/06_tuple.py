@@ -1,4 +1,4 @@
-tuple = (10,10.6,"Dhananjay")
+tuple = (10,10.6,"Darshan")
 
 print(tuple)
 print(tuple[0])
