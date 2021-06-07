@@ -1,7 +1,7 @@
-name = "Dhananjay Patel"
+name = "darshan Patel"
 print("My name is "+ name)
 
-a,b,c = 10,20.3,"Dhananjay Patel"
+a,b,c = 10,20.3,"Darshan Patel"
 print(a)
 print(b)
 print(c)
