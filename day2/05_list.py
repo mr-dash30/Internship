@@ -1,4 +1,4 @@
-lst = [10,10.6,"Dhananjay"]
+lst = [10,10.6,"Darshan"]
 
 print(lst)
 print(lst[0])
