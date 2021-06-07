@@ -1,6 +1,6 @@
 def my_function():
-    name = "Dhananjay Patel"
-    contact = 8154995870
+    name = "Darshan Patel"
+    contact = 5646645646
     return name,contact
 
 name,contact = my_function()
